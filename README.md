@@ -3,7 +3,7 @@
 ## Project structure
 
 ```text
-resume-screening-ai/
+project-root/
 ├── app.py
 ├── requirements.txt
 ├── resumes/
